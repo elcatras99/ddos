@@ -38,9 +38,9 @@ init(autoreset=True)
 # ============================================================
 # الإعدادات
 # ============================================================
-TOKEN = "YOUR_BOT_TOKEN_HERE"   # ضع توكن البوت هنا
+TOKEN = "MTUxNDcwMzE2OTA0MzgyODg2OA.G9kgxj.ZtPqShiBa99U1YbvSCNa4VrCXi4XwqgRjp0V80"   # ضع توكن البوت هنا
 PREFIX = "!"                     # البريفكس ! (حسب طلبك)
-OWNER_ID = 1234567890           # ضع ID حسابك هنا
+OWNER_ID = 1439351872468029521           # ضع ID حسابك هنا
 
 # قائمة الميثودات المتاحة
 METHODS_INFO = {
